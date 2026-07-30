@@ -12,9 +12,17 @@ This repository contains a collection of programs demonstrating the implementati
 
 
 Implementation of linked list concepts in C
+
+
 Well-structured and easy-to-understand code
+
+
 Demonstrates dynamic memory allocation
+
+
 Covers various fundamental linked list operations
+
+
 Suitable for beginners and students learning Data Structures
 
 #Learning Objectives
@@ -22,9 +30,17 @@ Suitable for beginners and students learning Data Structures
 This repository aims to help learners:
 
 Understand the structure of linked lists
+
+
 Learn dynamic memory allocation in C
+
+
 Practice implementing data structures
+
+
 Improve problem-solving and programming skills
+
+
 #Contributing
 
 Contributions are welcome. Feel free to fork the repository, make improvements, and submit a pull request.
